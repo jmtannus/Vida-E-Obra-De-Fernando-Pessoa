@@ -66,3 +66,7 @@ ____________________________________________________
 
   ### O que me achamou a atenção neste trecho:
   >Fernando Pessoa nos passa tranquilidade, apesar do conturbado momento da chegada da guerra em Portugal no início do século passado, em 1914. Este trecho do poema, repleto de referências de uma vida feliz, nos faz querer sentir o que ele está nos desejando. Conseguimos sentir até o cheirinho do mato, o calor do sol e ouvir o som do silêncio, algo tão escasso hoje em dia.
+ 
+ >Achei muito bonito
+
+
