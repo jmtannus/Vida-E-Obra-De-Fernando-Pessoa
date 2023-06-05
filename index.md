@@ -12,14 +12,15 @@
 *  Primeiro poeta
     * Primeiro poema
     ```
-      - [ ] Selecione o poema mais famoso do poeta escolhido 
-      - [ ] Separe um trecho ou uma estrofe com conteúdo interessante
-      - [ ] Escreva o que te chamou atenção nesse trecho do poema
+      - [ ] Pesquise e Selecione um dos poemas mais famoso do poeta escolhido.
+      - [ ] Separe um trecho ou uma estrofe com conteúdo interessante.
+      - [ ] Adicione o trecho na seção: "Trechos do Poema".
+      - [ ] Escreva o que te chamou atenção nesse trecho do poema na seção: "O que me achamou a atenção neste trecho".
      ```  
      * Segundo poema
-____________________________________________________     
-*  Segundo poeta 
 
+____________________________________________________   
+  
 ## Trechos do Poema
  
   ### Eu nunca guardei rebanhos
