@@ -1,24 +1,26 @@
-# 🖋️ POEMAS
-
-  ## Poetas 
-  
-  ## *Fernando Pessoa*
+## TRECHOS COMENTADOS SOBRE OS POEMAS DE:
+ 
+  # 🖋️*Fernando Pessoa*
   
   ![Fernando Pessoa](https://i0.wp.com/serenaucelli.blog/wp-content/uploads/2021/07/fernando-pessoa-1_ncultura.pt_.jpg?resize=256%2C256&ssl=1)
   
   [Vida e Curiosidades](https://www.casafernandopessoa.pt/pt/fernando-pessoa/vida#:~:text=Fernando%20Ant%C3%B3nio%20Nogueira%20Pessoa%20nasceu,padrasto%20era%20o%20c%C3%B4nsul%20Portugu%C3%AAs.)
   
-## Lista
-*  Primeiro poeta
-    * Primeiro poema
+## Obras
+  [clique aqui para conhecer](http://www.dominiopublico.gov.br/pesquisa/ResultadoPesquisaObraForm.do?first=50&no_autor=Fernando%20Pessoa&co_categoria=2&pagina=1&select_action=Submit&co_midia=2)
+  
+  #### Quer deixar sua opinião sobre algum trecho de seus poemas? 🤓 Basta seguir as ações listadas abaixo.
+  
+## Como contribuir:
+*  Como contribuir com os poemas de Fernando Pessoa
+    * Veja o passo a passo:
     ```
-      - [ ] Pesquise e Selecione um dos poemas mais famoso do poeta escolhido.
-      - [ ] Separe um trecho ou uma estrofe com conteúdo interessante.
-      - [ ] Adicione o trecho na seção: "Trechos do Poema".
-      - [ ] Escreva o que te chamou atenção nesse trecho do poema na seção: "O que me achamou a atenção neste trecho".
-     ```  
-     * Segundo poema
-
+      - [ ] Pesquise e Selecione um dos poemas que você gostou. Pode utilizar um dos textos da sugestão no link acima ☝️ "clique aqui para conhecer".
+      - [ ] Separe um trecho ou uma estrofe com o conteúdo que você quer comentar.
+      - [ ] Adicione o trecho na seção: "Trechos do Poema". Lembre-se de utilizar a marcação da mesma forma que foi utilizada no primeiro poema.
+      - [ ] Escreva seu sentimento e entendimento na seção: "O que me achamou a atenção neste trecho". Por favor, inicie seu comentário utilizando a marcação ">".
+     ``` 
+Sua contribuição sempre é bem vinda! Muito obrigada! 🌻🌻🌻🌻🌻🌻🌻
 ____________________________________________________   
   
 ## Trechos do Poema
