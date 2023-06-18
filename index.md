@@ -24,6 +24,41 @@ Sua contribuição sempre é bem vinda! Muito obrigada! 🌻🌻🌻🌻🌻🌻
 ____________________________________________________   
   
 ## Trechos do Poema
+
+  ### Poema em linha reta
+   >(...)
+  >
+  Toda a gente que eu conheço e que fala comigo
+  
+  Nunca teve um acto ridículo, nunca sofreu enxovalho,
+  
+  Nunca foi senão príncipe — todos eles príncipes — na vida…
+  
+  
+  Quem me dera ouvir de alguém a voz humana
+  
+  Que confessasse não um pecado, mas uma infâmia;
+  
+  Que contasse, não uma violência, mas uma cobardia!
+  
+  Não, são todos o Ideal, se os oiço e me falam.
+  
+  Quem há neste largo mundo que me confesse que uma vez foi vil?
+  
+  Ó príncipes, meus irmãos,
+  
+  
+  Arre, estou farto de semideuses!
+  
+  Onde é que há gente no mundo?
+  
+  Então sou só eu que é vil e erróneo nesta terra?
+  >(...)
+  >F.P.
+
+
+  ### O que me achamou a atenção neste trecho:
+  >Atualmente, nas redes sociais nos deparamos com o mesmo sentimento. Serão todos semideuses? Porque que, para ser aceito pela sociedade, as fotos e posts só mostram momentos felizes. E esse sentimento de pertencimento e aceitação, tão arraigado em nosso subconsciente - até mesmo consciente - deixa o ser humano congelado no momento de "postar" algo que possa não agradar os "seguidores". Como se a frase de Fernando Pessoa: "Então sou só eu que é vil e erróneo nesta terra?" morasse num quartinho escuro do nosso pensamento.
  
   ### Eu nunca guardei rebanhos
   >(...)
