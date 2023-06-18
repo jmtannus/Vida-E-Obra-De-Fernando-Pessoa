@@ -53,7 +53,7 @@ ____________________________________________________
   Onde é que há gente no mundo?
   
   Então sou só eu que é vil e erróneo nesta terra?
-  >(...)
+  (...)
   >F.P.
 
 
