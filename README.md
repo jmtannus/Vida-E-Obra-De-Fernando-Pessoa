@@ -30,6 +30,7 @@ _Trabalho do Curso de FullStack utilizando Markdown, uma linguagem leve para for
 Sua contribuição sempre é bem vinda! Muito obrigada! 🌻🌻🌻🌻🌻🌻🌻
 ____________________________________________________   
 
+ ![](https://i.pinimg.com/564x/25/5e/30/255e30e72a7bcfb18ee66b7fa0afcecd.jpg)
 <footer>
 
 <!--
