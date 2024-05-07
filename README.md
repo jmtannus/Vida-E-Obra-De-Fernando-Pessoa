@@ -40,7 +40,7 @@ ____________________________________________________
       Continuamente me estranho. <br>
       Nunca me vi nem achei. <br>
       De tanto ser, só tenho alma. <br>
-      Quem tem alma não tem calma."
+      Quem tem alma não tem calma. (...)"
 
 ____________________________________________________  
 
