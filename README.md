@@ -30,6 +30,20 @@ _Trabalho do Curso de FullStack utilizando Markdown, uma linguagem leve para for
 Sua contribuição sempre é bem vinda! Muito obrigada! 🌻🌻🌻🌻🌻🌻🌻
 ____________________________________________________   
 
+## POEMAS:
+
+### 1 - *Não sei quantas almas tenho*
+> _Fernando Pessoa escreveu este poema sobre identidade, sobre as mudanças na vida e sobre se perguntar quem, afinal, se é:_
+<br>
+      "Não sei quantas almas tenho. <br>
+      Cada momento mudei. <br>
+      Continuamente me estranho. <br>
+      Nunca me vi nem achei. <br>
+      De tanto ser, só tenho alma. <br>
+      Quem tem alma não tem calma."
+
+____________________________________________________  
+
  ![](https://i.pinimg.com/564x/25/5e/30/255e30e72a7bcfb18ee66b7fa0afcecd.jpg)
 <footer>
 
