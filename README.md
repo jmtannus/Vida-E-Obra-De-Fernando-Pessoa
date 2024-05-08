@@ -44,6 +44,18 @@ ____________________________________________________
 
 ____________________________________________________  
 
+### 2 - *A razão de amar*
+> _O amor não exige explicações, fórmulas ou interpretações complexas. Para Pessoa o amor é um sentimento que se "auto explica", afinal de contas, existe algo mais forte e importante do que um EU TE AMO que vem do fundo do coração?_
+<br>
+      "Amo como ama o amor. <br>
+      Não conheço nenhuma outra <br>
+      razão para amar senão amar. <br>
+      Que queres que te diga, <br>
+      além de que te amo, se o que <br>
+      quero dizer-te é que te amo?"
+
+____________________________________________________  
+
  ![](https://i.pinimg.com/564x/25/5e/30/255e30e72a7bcfb18ee66b7fa0afcecd.jpg)
 <footer>
 
